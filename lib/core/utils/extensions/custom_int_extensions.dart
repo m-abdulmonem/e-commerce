@@ -1,0 +1,6 @@
+
+extension CustomIntExtensions on double{
+
+
+
+}
